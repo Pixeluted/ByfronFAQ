@@ -18,3 +18,7 @@ But I am going to mention that Roblox has announced that Hyperion will be coming
 ## Is Hyperion bypassable?
 
 Yeah. As of September 19, we know that Cheat Buddy has found a way to get around Hyperion that works for every game and will soon be releasing it. 3dsboys08 with Synapse V3 is the next person who will definitely get around Hyperion.
+
+## What executors to use?
+
+You can still use executors even if you don't have the version with Hyperion on UWP. I would recommend Electron. You can get Electron here https://ryos.lol
