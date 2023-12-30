@@ -22,4 +22,4 @@ Yeah. Hyperion was bypassed by electron but was detected by roblox after some ti
 ## What executors to use?
 
 None are updated and working, if you find any that claim to be working on PC they are 99% a virus.
-You can still exploit on mobile and macos (please note that emualators may be detected, not sure)
+You can still exploit on mobile and macos (please note that emulators may be detected, not sure)
