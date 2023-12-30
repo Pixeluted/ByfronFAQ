@@ -17,7 +17,7 @@ But I am going to mention that Roblox has announced that Hyperion will be coming
 
 ## Is Hyperion bypassable?
 
-Yeah. Hyperion was bypassed by electron but was detected by roblox after some time, but it showed that hyperion is definetely bypassable, co and cheatbuddy is working on electron and with cheatbuddy's sysguard I hope electron might be undetected for many months or until roblox doesn't switch to kernel.
+Yeah. Hyperion was bypassed by electron but was detected by roblox after some time, but it showed that hyperion is definetely bypassable, co and cheatbuddy is working on electron and with cheatbuddy's sysguard I hope electron might be undetected for many months or until roblox switches to kernel.
 
 ## What executors to use?
 
