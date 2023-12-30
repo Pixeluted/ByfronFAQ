@@ -17,8 +17,9 @@ But I am going to mention that Roblox has announced that Hyperion will be coming
 
 ## Is Hyperion bypassable?
 
-Yeah. As of September 19, we know that Cheat Buddy has found a way to get around Hyperion that works for every game and will soon be releasing it. 3dsboys08 with Synapse V3 is the next person who will definitely get around Hyperion.
+Yeah. Hyperion was bypassed by electron but was detected by roblox after some time, but it showed that hyperion is definetely bypassable, co and cheatbuddy is working on electron and with cheatbuddy's sysguard I hope electron might be undetected for many months or until roblox doesn't switch to kernel.
 
 ## What executors to use?
 
-You can still use executors even if you don't have the version with Hyperion on UWP. I would recommend Electron. You can get Electron here https://ryos.lol
+None are updated and working, if you find any that claim to be working on PC they are 99% a virus.
+You can still exploit on mobile and macos (please note that emualators may be detected, not sure)
